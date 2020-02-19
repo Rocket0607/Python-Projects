@@ -1,3 +1,5 @@
+#This is an app with a login page and a sending page. You can only send emails with this app. 
+#The app requires Python and the Kivy downloaded to run
 import smtplib
 from email.message import EmailMessage
 
